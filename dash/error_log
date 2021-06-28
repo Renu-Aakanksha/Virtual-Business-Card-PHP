@@ -1,0 +1,469 @@
+[03-Oct-2020 13:08:19 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 86
+[03-Oct-2020 13:08:19 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 86
+[03-Oct-2020 13:08:19 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 88
+[03-Oct-2020 13:08:19 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 88
+[03-Oct-2020 13:09:05 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 86
+[03-Oct-2020 13:09:05 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 86
+[03-Oct-2020 13:09:05 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 88
+[03-Oct-2020 13:09:05 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 88
+[03-Oct-2020 13:09:30 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 88
+[03-Oct-2020 13:09:30 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 88
+[03-Oct-2020 13:09:30 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 90
+[03-Oct-2020 13:09:30 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 90
+[03-Oct-2020 13:11:21 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:11:21 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:11:21 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 106
+[03-Oct-2020 13:11:21 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 106
+[03-Oct-2020 13:12:30 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:12:30 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:12:30 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 106
+[03-Oct-2020 13:12:30 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 106
+[03-Oct-2020 13:17:19 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 102
+[03-Oct-2020 13:17:19 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 102
+[03-Oct-2020 13:17:19 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:17:19 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:18:25 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 102
+[03-Oct-2020 13:18:25 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 102
+[03-Oct-2020 13:18:25 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:18:25 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:18:55 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 102
+[03-Oct-2020 13:18:55 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 102
+[03-Oct-2020 13:18:55 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:18:55 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:20:12 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 102
+[03-Oct-2020 13:20:12 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 102
+[03-Oct-2020 13:20:12 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:20:12 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 104
+[03-Oct-2020 13:20:45 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 94
+[03-Oct-2020 13:20:45 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 94
+[03-Oct-2020 13:20:45 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 96
+[03-Oct-2020 13:20:45 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 96
+[03-Oct-2020 13:26:23 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 94
+[03-Oct-2020 13:26:23 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 94
+[03-Oct-2020 13:26:23 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 96
+[03-Oct-2020 13:26:23 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 96
+[03-Oct-2020 13:26:41 UTC] PHP Warning:  include(includes/service.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 94
+[03-Oct-2020 13:26:41 UTC] PHP Warning:  include(): Failed opening 'includes/service.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 94
+[03-Oct-2020 13:26:41 UTC] PHP Warning:  include(../include/footer.php): failed to open stream: No such file or directory in /home/mymobiz/public_html/web/dash/thanks.php on line 96
+[03-Oct-2020 13:26:41 UTC] PHP Warning:  include(): Failed opening '../include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mymobiz/public_html/web/dash/thanks.php on line 96
+[08-Oct-2020 09:36:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mymobiz/public_html/dash/add-product.php on line 162
+[13-Oct-2020 09:14:34 UTC] PHP Fatal error:  Call to a member function query() on null in /home/mymobiz/public_html/dash/header.php on line 15
+[13-Oct-2020 09:15:34 UTC] PHP Fatal error:  Call to a member function query() on null in /home/mymobiz/public_html/dash/header.php on line 15
+[13-Oct-2020 18:12:54 UTC] PHP Fatal error:  Function name must be a string in /home/mymobiz/public_html/dash/video.php on line 7
+[13-Oct-2020 20:14:57 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mymobiz/public_html/dash/layout.php on line 102
+[14-Oct-2020 17:15:13 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php56/sess_pcl57jasafqqr4kqj66gh5e690, O_RDWR) failed: Disk quota exceeded (122) in /home/mymobiz/public_html/dash/session.php on line 2
+[15-Oct-2020 18:06:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mymobiz/public_html/dash/verify-user.php:35) in /home/mymobiz/public_html/dash/verify-user.php on line 40
+[18-Oct-2020 06:57:31 UTC] PHP Parse error:  syntax error, unexpected '$rowsdv' (T_VARIABLE), expecting ',' or ';' in /home/mymobiz/public_html/dash/header.php on line 71
+[18-Oct-2020 06:57:32 UTC] PHP Parse error:  syntax error, unexpected '$rowsdv' (T_VARIABLE), expecting ',' or ';' in /home/mymobiz/public_html/dash/header.php on line 71
+[18-Oct-2020 06:57:37 UTC] PHP Parse error:  syntax error, unexpected '$rowsdv' (T_VARIABLE), expecting ',' or ';' in /home/mymobiz/public_html/dash/header.php on line 71
+[18-Oct-2020 06:57:38 UTC] PHP Parse error:  syntax error, unexpected '$rowsdv' (T_VARIABLE), expecting ',' or ';' in /home/mymobiz/public_html/dash/header.php on line 71
+[18-Oct-2020 06:58:09 UTC] PHP Parse error:  syntax error, unexpected '$rowsdv' (T_VARIABLE), expecting ',' or ';' in /home/mymobiz/public_html/dash/header.php on line 71
+[22-Oct-2020 11:40:14 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 11:40:14 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 11:40:14 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 12:07:55 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 12:07:55 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 12:07:55 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:32:59 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:32:59 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:32:59 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:34:15 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:34:15 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:34:15 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:34:34 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:34:34 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[22-Oct-2020 16:34:34 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:26:53 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:26:53 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:26:53 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:00 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:00 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:00 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:04 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:04 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:04 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:32 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:32 UTC] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/verified/public_html/dash/registration.php on line 2
+[25-Oct-2020 12:27:32 UTC] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/verified/public_html/dash/registration.php on line 2
+[30-Oct-2020 08:31:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verified/public_html/dash/index.php on line 342
+[30-Oct-2020 08:31:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verified/public_html/dash/index.php on line 342
+[09-Nov-2020 04:38:00 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 5
+[09-Nov-2020 04:38:01 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 43
+[09-Nov-2020 04:38:01 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 63
+[09-Nov-2020 04:38:01 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 244
+[09-Nov-2020 04:38:01 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 256
+[09-Nov-2020 04:38:01 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 290
+[09-Nov-2020 04:38:01 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 292
+[09-Nov-2020 04:38:01 UTC] PHP Notice:  Undefined variable: pproductv in /home/vsitein/public_html/site101.in/dash/index.php on line 298
+[09-Nov-2020 04:38:01 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[09-Nov-2020 04:38:15 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 5
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 43
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 63
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 244
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 256
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 290
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 292
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined variable: pproductv in /home/vsitein/public_html/site101.in/dash/index.php on line 298
+[09-Nov-2020 04:56:19 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[09-Nov-2020 04:56:52 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 5
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 43
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 63
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 244
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 256
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 290
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 292
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined variable: pproductv in /home/vsitein/public_html/site101.in/dash/index.php on line 298
+[09-Nov-2020 06:40:37 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 5
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 43
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 63
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 244
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 256
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 290
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 292
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined variable: pproductv in /home/vsitein/public_html/site101.in/dash/index.php on line 298
+[09-Nov-2020 09:30:45 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[09-Nov-2020 09:31:21 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 09:31:21 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[09-Nov-2020 09:32:30 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 09:32:43 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 09:36:17 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 09:37:16 UTC] PHP Notice:  Undefined variable: rnote in /home/vsitein/public_html/site101.in/dash/profile.php on line 227
+[09-Nov-2020 09:38:13 UTC] PHP Notice:  Undefined variable: rnote in /home/vsitein/public_html/site101.in/dash/profile.php on line 227
+[09-Nov-2020 09:38:35 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 09:39:12 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 09:39:45 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 12:29:11 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 12:29:11 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[09-Nov-2020 12:54:04 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[09-Nov-2020 12:54:04 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[09-Nov-2020 16:39:59 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 5
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 43
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 63
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 244
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 256
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 290
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 292
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined variable: pproductv in /home/vsitein/public_html/site101.in/dash/index.php on line 298
+[10-Nov-2020 04:10:20 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[10-Nov-2020 05:42:15 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[10-Nov-2020 05:44:43 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[10-Nov-2020 15:31:54 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[10-Nov-2020 16:40:06 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[10-Nov-2020 16:40:06 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[10-Nov-2020 16:43:28 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[10-Nov-2020 16:43:28 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[10-Nov-2020 16:43:36 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[10-Nov-2020 16:43:36 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[10-Nov-2020 16:43:48 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[10-Nov-2020 16:43:48 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 420
+[10-Nov-2020 16:44:56 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[11-Nov-2020 09:52:15 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[11-Nov-2020 09:55:22 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[11-Nov-2020 10:01:00 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[11-Nov-2020 16:16:48 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[11-Nov-2020 16:16:48 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 294
+[11-Nov-2020 16:16:48 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 296
+[11-Nov-2020 16:16:48 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 424
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 5
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 43
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/header.php on line 63
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 244
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/site101.in/dash/index.php on line 256
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 294
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 296
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined variable: pproductv in /home/vsitein/public_html/site101.in/dash/index.php on line 302
+[11-Nov-2020 20:18:48 UTC] PHP Notice:  Undefined variable: url in /home/vsitein/public_html/site101.in/dash/index.php on line 424
+[13-Nov-2020 09:39:26 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[13-Nov-2020 09:44:12 UTC] PHP Notice:  Undefined variable: rnote in /home/vsitein/public_html/site101.in/dash/profile.php on line 227
+[13-Nov-2020 13:11:20 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[13-Nov-2020 13:12:08 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[13-Nov-2020 13:16:24 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[13-Nov-2020 13:21:27 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[13-Nov-2020 13:25:19 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[13-Nov-2020 13:28:11 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/site101.in/dash/index.php on line 11
+[14-Nov-2020 10:26:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/grahakfo/public_html/dash/index.php on line 296
+[14-Nov-2020 10:26:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/grahakfo/public_html/dash/index.php on line 296
+[03-Dec-2020 15:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/profile.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/profile.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/profile.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/profile.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/profile.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/profile.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/profile.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/add-product.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/payment-gateway.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/index.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/index.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/payment-gateway.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/add-product.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/profile.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:54:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/add-product.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:54:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/payment-gateway.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:54:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/index.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[03-Dec-2020 15:54:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grahakfo/public_html/session.php:7
+Stack trace:
+#0 /home/grahakfo/public_html/dash/session.php(2): include()
+#1 /home/grahakfo/public_html/dash/index.php(2): include('/home/grahakfo/...')
+#2 {main}
+  thrown in /home/grahakfo/public_html/session.php on line 7
+[13-Dec-2020 17:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/grahakfo/public_html/dash/about.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/grahakfo/public_html/dash/about.php on line 62
+[13-Dec-2020 17:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/grahakfo/public_html/dash/about.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/grahakfo/public_html/dash/about.php on line 62
+[13-Dec-2020 17:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/grahakfo/public_html/dash/about.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/grahakfo/public_html/dash/about.php on line 56
+[13-Dec-2020 17:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/grahakfo/public_html/dash/about.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/grahakfo/public_html/dash/about.php on line 55
+[13-Dec-2020 17:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/grahakfo/public_html/dash/about.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/grahakfo/public_html/dash/about.php on line 55
+[14-Dec-2020 11:36:32 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/card101.in/dash/index.php on line 11
+[14-Dec-2020 11:38:58 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/card101.in/dash/index.php on line 11
+[14-Dec-2020 17:01:23 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/card101.in/dash/about.php on line 4
+[14-Dec-2020 17:01:24 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/card101.in/dash/header.php on line 43
+[14-Dec-2020 17:01:24 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/card101.in/dash/header.php on line 63
+[14-Dec-2020 17:02:49 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/card101.in/dash/index.php on line 11
+[14-Dec-2020 17:03:17 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/card101.in/dash/index.php on line 11
+[14-Dec-2020 17:14:34 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/card101.in/dash/index.php on line 11
+[14-Dec-2020 17:26:31 UTC] PHP Notice:  Undefined variable: rnote in /home/vsitein/public_html/card101.in/dash/profile.php on line 230
+[14-Dec-2020 18:35:23 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/card101.in/dash/index.php on line 11
+[14-Dec-2020 18:35:31 UTC] PHP Notice:  Undefined variable: rnote in /home/vsitein/public_html/card101.in/dash/profile.php on line 230
+[14-Dec-2020 18:35:58 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/card101.in/dash/index.php on line 11
+[15-Dec-2020 03:58:28 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/card101.in/dash/header.php on line 43
+[15-Dec-2020 03:58:28 UTC] PHP Notice:  Undefined index: user in /home/vsitein/public_html/card101.in/dash/header.php on line 63
+[15-Dec-2020 03:58:49 UTC] PHP Notice:  Undefined index: product in /home/vsitein/public_html/card101.in/dash/index.php on line 11
+[15-Dec-2020 04:02:07 UTC] PHP Notice:  Undefined variable: display_name in /home/vsitein/public_html/card101.in/dash/banners.php on line 88
+[15-Dec-2020 04:02:07 UTC] PHP Notice:  Undefined variable: display_name in /home/vsitein/public_html/card101.in/dash/banners.php on line 88
+[15-Dec-2020 04:02:12 UTC] PHP Notice:  Undefined variable: display_name in /home/vsitein/public_html/card101.in/dash/banners.php on line 88
+[15-Dec-2020 04:02:14 UTC] PHP Notice:  Undefined variable: display_name in /home/vsitein/public_html/card101.in/dash/banners.php on line 88
+[18-Dec-2020 05:35:06 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 05:35:10 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 230
+[18-Dec-2020 05:36:04 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 230
+[18-Dec-2020 05:36:05 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 230
+[18-Dec-2020 05:51:00 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 235
+[18-Dec-2020 06:00:30 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 244
+[18-Dec-2020 06:00:34 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 244
+[18-Dec-2020 06:00:36 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 244
+[18-Dec-2020 06:04:53 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:04:55 UTC] PHP Warning:  mysqli_stmt::execute(): Couldn't fetch mysqli_stmt in /home/brightgo/public_html/vcard/dash/profile.php on line 47
+[18-Dec-2020 06:04:55 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/brightgo/public_html/vcard/dash/profile.php on line 54
+[18-Dec-2020 06:04:55 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:00 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:17 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:18 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:23 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:24 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:30 UTC] PHP Warning:  mysqli_stmt::execute(): Couldn't fetch mysqli_stmt in /home/brightgo/public_html/vcard/dash/profile.php on line 47
+[18-Dec-2020 06:05:30 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/brightgo/public_html/vcard/dash/profile.php on line 54
+[18-Dec-2020 06:05:30 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:32 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:36 UTC] PHP Warning:  mysqli_stmt::execute(): Couldn't fetch mysqli_stmt in /home/brightgo/public_html/vcard/dash/profile.php on line 47
+[18-Dec-2020 06:05:36 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/brightgo/public_html/vcard/dash/profile.php on line 54
+[18-Dec-2020 06:05:36 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:05:37 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:33:11 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:33:17 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:33:35 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:33:37 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:33:43 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:33:52 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:34:02 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:34:04 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:34:09 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:34:27 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:34:38 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:34:40 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:34:42 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:35:40 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:35:52 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:36:29 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:36:34 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:37:20 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:41:16 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:45:10 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:45:59 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:46:01 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:48:09 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 06:52:33 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:52:44 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 06:57:07 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 07:00:02 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:01:12 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:01:40 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:01:41 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:01:42 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:01:47 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:02:15 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:15:27 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:15:28 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:19:58 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:20:01 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 07:20:48 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:21:27 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:22:03 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:22:43 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:45:46 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:46:53 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:46:55 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:47:02 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:47:08 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 07:47:38 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:52:22 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:52:23 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:52:24 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:52:25 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:52:27 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:52:28 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:52:41 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 07:53:21 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:53:31 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:54:15 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:54:16 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:54:18 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:54:51 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:55:13 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:55:38 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:57:14 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 07:57:29 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 07:58:12 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 08:27:42 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[18-Dec-2020 08:28:56 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 08:29:38 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[18-Dec-2020 08:34:04 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[19-Dec-2020 18:53:08 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[19-Dec-2020 18:53:23 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[19-Dec-2020 18:53:45 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[19-Dec-2020 18:53:46 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[19-Dec-2020 18:55:12 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[22-Dec-2020 03:44:57 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined index: user in /home/brightgo/public_html/vcard/dash/index.php on line 5
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined index: user in /home/brightgo/public_html/vcard/dash/header.php on line 43
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined index: user in /home/brightgo/public_html/vcard/dash/header.php on line 63
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined index: user in /home/brightgo/public_html/vcard/dash/index.php on line 244
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined variable: datas in /home/brightgo/public_html/vcard/dash/index.php on line 259
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/brightgo/public_html/vcard/dash/index.php on line 259
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined index: wurl in /home/brightgo/public_html/vcard/dash/index.php on line 294
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined index: user in /home/brightgo/public_html/vcard/dash/index.php on line 296
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined variable: url in /home/brightgo/public_html/vcard/dash/index.php on line 335
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined variable: url in /home/brightgo/public_html/vcard/dash/index.php on line 337
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined variable: pproductv in /home/brightgo/public_html/vcard/dash/index.php on line 343
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined index: wurl in /home/brightgo/public_html/vcard/dash/footer.php on line 3
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined index: wcname in /home/brightgo/public_html/vcard/dash/footer.php on line 3
+[22-Dec-2020 06:09:44 UTC] PHP Notice:  Undefined variable: url in /home/brightgo/public_html/vcard/dash/index.php on line 465
+[22-Dec-2020 10:59:53 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[22-Dec-2020 11:01:41 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[22-Dec-2020 11:07:51 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[22-Dec-2020 12:17:21 UTC] PHP Notice:  Undefined index: user in /home/brightgo/public_html/vcard/dash/header.php on line 43
+[22-Dec-2020 12:17:21 UTC] PHP Notice:  Undefined index: user in /home/brightgo/public_html/vcard/dash/header.php on line 63
+[22-Dec-2020 12:17:21 UTC] PHP Notice:  Undefined index: user in /home/brightgo/public_html/vcard/dash/feedback.php on line 104
+[22-Dec-2020 12:17:21 UTC] PHP Notice:  Undefined index: wurl in /home/brightgo/public_html/vcard/dash/footer.php on line 3
+[22-Dec-2020 12:17:21 UTC] PHP Notice:  Undefined index: wcname in /home/brightgo/public_html/vcard/dash/footer.php on line 3
+[30-Dec-2020 16:18:45 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[30-Dec-2020 16:18:45 UTC] PHP Notice:  Undefined variable: datas in /home/brightgo/public_html/vcard/dash/index.php on line 259
+[30-Dec-2020 16:18:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/brightgo/public_html/vcard/dash/index.php on line 259
+[31-Dec-2020 13:13:47 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[31-Dec-2020 14:02:08 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[31-Dec-2020 14:02:37 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[31-Dec-2020 14:02:52 UTC] PHP Notice:  Undefined variable: rnote in /home/brightgo/public_html/vcard/dash/profile.php on line 258
+[31-Dec-2020 14:04:19 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[31-Dec-2020 14:05:46 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[31-Dec-2020 14:07:18 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11
+[31-Dec-2020 14:07:54 UTC] PHP Notice:  Undefined index: product in /home/brightgo/public_html/vcard/dash/index.php on line 11

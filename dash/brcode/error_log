@@ -1,0 +1,2 @@
+[30-Jun-2020 13:36:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/brightgoals/public_html/brcode/barcode.php:18) in /home/brightgoals/public_html/session.php on line 2
+[01-Jul-2020 18:03:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/brightgoals/public_html/brcode/barcode.php:18) in /home/brightgoals/public_html/session.php on line 2

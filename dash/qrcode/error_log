@@ -1,0 +1,2 @@
+[29-May-2020 10:23:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexgenevent/public_html/mecom/qrcode/index.php:95) in /home/nexgenevent/public_html/mecom/qrcode/phpToPDF.php(241) : eval()'d code on line 114
+[29-May-2020 10:23:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nexgenevent/public_html/mecom/qrcode/index.php:95) in /home/nexgenevent/public_html/mecom/qrcode/phpToPDF.php(241) : eval()'d code on line 115

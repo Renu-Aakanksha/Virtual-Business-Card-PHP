@@ -1,0 +1,15 @@
+{
+  "name": "Pocket E-commerce Store",
+  "short_name": "Pocket E-commerce Store",
+  "description": "The only eCommerce platform offering two great ways to sell online - Custom Online Store & Social Marketplace",
+  "lang": "en",
+  "start_url": "https://mymobiz.in/",
+  "scope": "https://www.mymobiz.in/home/index",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "https://mymobiz.in/icon/512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}

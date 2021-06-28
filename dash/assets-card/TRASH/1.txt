@@ -1,0 +1,51 @@
+
+*Customer Registration Form*
+
+External Form :
+1. Company / Business Name
+2. Nature of Business
+3. Company Caption/Tag-Line
+4. Contact Person
+5. Contact Number
+6. Aadhaar Card Number
+7. WhatsApp Number
+8. Office Address
+9. Email Address
+10.Password 
+
+Internal Form :  (All Editable)
+1. Company / Business Name
+2. Nature of Business
+3. Company Caption/Tag-Line
+4. Contact Person
+5. Contact Number
+6. Aadhaar Card Number
+7. WhatsApp Number
+8. Office Address
+9. Email Address
+10.Password 
+
+Internal Form :  (For updation in Frontend Page)
+
+Business Information
+1. Upload Logo (300 X 300 pxl)
+2. Company Specialities (5 points)
+3. Website Address
+4. Map Location
+
+Product Information (Max. 5 Products)
+5. Product Name
+6. Upload Product Image
+7. Product Price
+8. Gallery Images
+
+Promotional & Social Information
+9. Website Title
+10.Describe Your Business
+11.Meta-Tag Informtion
+12.Schema Information (Better to use Address above)
+13.Facebook Link
+14.Twitter Link
+15.Linkedin Link
+16.Instagram Link
+17.You-Tube Link

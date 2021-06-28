@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteRule ^([0-9a-zA-Z-/]+)$ index.php?name=$1
+RewriteRule ^([0-9a-zA-Z-/]+)/ index.php?name=$1
+
+ <IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTPS} off
+    RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+</IfModule>
+
